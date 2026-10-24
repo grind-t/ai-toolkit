@@ -25,7 +25,7 @@ ai-toolkit/
 
 ```
 /plugin marketplace add grind-t/ai-toolkit
-/plugin install ai-toolkit@ai-toolkit
+/plugin install toolkit@toolkit
 ```
 
 Локально: `/plugin marketplace add ./ai-toolkit`.
@@ -36,8 +36,10 @@ ai-toolkit/
 codex plugin marketplace add grind-t/ai-toolkit
 ```
 
-Затем установите `ai-toolkit` из каталога плагинов (`/plugins` в Codex).
+Затем установите `toolkit` из каталога плагинов (`/plugins` в Codex).
 Локально: `codex plugin marketplace add ./ai-toolkit`.
+
+Навыки доступны с префиксом плагина: `/toolkit:<skill-name>`, например `/toolkit:commit-message`.
 
 ## Добавление навыка
 
