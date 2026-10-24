@@ -1,6 +1,12 @@
 {
   "name": "ai-toolkit",
-  "owner": { "name": "grind-t", "email": "grindt.gd@gmail.com" },
+  "owner": {
+    "name": "grind-t",
+    "email": "grindt.gd@gmail.com"
+  },
+  "metadata": {
+    "description": "Набор навыков (skills) для Claude Code и Codex"
+  },
   "plugins": [
     {
       "name": "ai-toolkit",
