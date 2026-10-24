@@ -1,0 +1,15 @@
+{
+  "name": "ai-toolkit",
+  "version": "0.1.0",
+  "description": "Набор навыков (skills) для Claude Code и Codex",
+  "author": { "name": "grind-t", "email": "grindt.gd@gmail.com" },
+  "license": "MIT",
+  "keywords": ["skills", "toolkit"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI Toolkit",
+    "shortDescription": "Набор навыков для Claude Code и Codex",
+    "developerName": "grind-t",
+    "category": "Productivity"
+  }
+}
