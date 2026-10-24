@@ -39,7 +39,7 @@ codex plugin marketplace add grind-t/ai-toolkit
 Затем установите `toolkit` из каталога плагинов (`/plugins` в Codex).
 Локально: `codex plugin marketplace add ./ai-toolkit`.
 
-Навыки доступны с префиксом плагина: `/toolkit:<skill-name>`, например `/toolkit:commit-message`.
+Навыки доступны с префиксом плагина: `/toolkit:<skill-name>`, например `/toolkit:step-by-step`.
 
 ## Добавление навыка
 
@@ -61,4 +61,4 @@ description: Что делает навык и когда его использ�
 
 | Навык | Описание |
 |---|---|
-| `commit-message` | Сообщение коммита по staged-изменениям (Conventional Commits) |
+| `step-by-step` | Пошаговая работа: один шаг → обсуждение → выполнение после явного «ок» → следующий шаг |
