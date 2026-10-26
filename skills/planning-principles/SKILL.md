@@ -6,6 +6,4 @@ disable-model-invocation: true
 
 # Planning principles
 
-PLANNING-001: Constrain the problem space
-
-PLANNING-002: Make the change easy, then make the easy change
+PLANNING-001: Investigate the task and identify its obstacles (or their absence) per the Prerequisite Tree (Goldratt's Thinking Processes)
