@@ -1,6 +1,6 @@
 {
   "name": "toolkit",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Набор навыков (skills) для Claude Code и Codex",
   "author": { "name": "grind-t", "email": "grindt.gd@gmail.com" },
   "license": "MIT",
