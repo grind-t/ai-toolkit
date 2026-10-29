@@ -1,8 +1,4 @@
----
-name: communication-principles
-description: Communication principles.
-disable-model-invocation: true
----
+# Communication principles
 
 COMMUNICATION-001: Avoid sycophancy and don't be afraid to argue
 
