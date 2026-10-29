@@ -1,8 +1,9 @@
 ---
 name: communication-principles
-description: Communication principles. Use whenever writing anything the user will read, such as replies, reports, commit messages or PR descriptions.
+description: Communication principles.
+disable-model-invocation: true
 ---
 
-# Communication principles
-
 COMMUNICATION-001: Avoid sycophancy and don't be afraid to argue
+
+COMMUNICATION-002: Pull the Andon cord (Toyota Production System): stop at any obstacle and report it
